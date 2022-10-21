@@ -23,7 +23,7 @@ Seawater temperature, pH, and salinity influence coral bleaching, coverage and s
 
 ## Dataset
 Datasets were obtained from:
-+ **eReefs BioGeoChemical Model (4km)**: ocean temperature, salinity and pH from 01/2011 to 12/2016.
++ **eReefs BioGeoChemical Model (4km)**: ocean temperature, salinity and pH from 01/2011 to 12/2016. Detrieved from 'https://thredds.ereefs.aims.gov.au/thredds/s3catalogue/aims-ereefs-public-prod/derived/ncaggregate/ereefs/catalog.html'
 + **Reefclouds**: reef coverage data detrieved from 'https://reefcloud.ai/dashboard/?x=145.45173&y=-14.67976&z=11.61252&level=6&id=1209'
 + **2016 Aerial Survey**: coral bleaching data detrieved from 'https://github.com/520585805/Lizard-Island-Coral-and-seawater-change-in-2016/blob/main/corals%20attributes/2016AerialSurvey.csv'
 + **Coraltraits.org**: coral species detrieved from 'https://coraltraits.org/'
