@@ -18,7 +18,7 @@ Seawater temperature, pH, and salinity influence coral bleaching, coverage and s
 
 
 
-[See here for the full project report](https://docs.google.com/document/d/1OzrLt2eJxMpW0C1MZP3s-UoSD7J28XWGu1OpyyPE0wA/) 
+[See here for the full project report](https://www.overleaf.com/8942127693pshhvtrpqzyn) 
 
 
 ## Dataset
